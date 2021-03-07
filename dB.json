@@ -1,0 +1,59 @@
+    [
+        {
+            "id":"1", "name":"Xiaomi Redmi Note 9 Pro", "price":"1000", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"2", "name":"Samsung ", "price":"120", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"3", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"4", "name":"Samsung Galaxy J8", "price":"100", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"5", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"6", "name":"Samsung Galaxy S9", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"7", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"8", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"9", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"10", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"11", "name":"Samsung Galaxy J8", "price":"200", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"12", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"13", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        },
+        {
+            "id":"14", "name":"Samsung Galaxy J8", "price":"90.25", "currency":"TRY", "status":"1",
+            "cpu":"Y", "ram":"256", "screenSize":"1920x1080", "category":"cellphone"
+        }
+     ]
+    
